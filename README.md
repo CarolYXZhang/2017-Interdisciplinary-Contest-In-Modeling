@@ -1,7 +1,9 @@
 # 2017-Interdisciplinary-Contest-In-Modeling
 
 ## Contest Introduction
-This iS the link of contest introcution(https://www.comap.com/undergraduate/contests/mcm/contests/2017/problems/). Our team chose *Problem E: Sustainable Cities Needed!* which was about to evaluate the city's smart growth. As for smart growth, it is an approach to development that encourages a mix of building types and uses, diverse housing and transportation options, development within existing neighborhoods, and community engagement. (https://smartgrowthamerica.org/our-vision/what-is-smart-growth/)
+This is the link of contest introcution(https://www.comap.com/undergraduate/contests/mcm/contests/2017/problems/). 
+
+Our team chose *Problem E: Sustainable Cities Needed!* which was about to evaluate the city's smart growth. As for smart growth, it is an approach to development that encourages a mix of building types and uses, diverse housing and transportation options, development within existing neighborhoods, and community engagement. (https://smartgrowthamerica.org/our-vision/what-is-smart-growth/)
 
 ## Final Result
 
